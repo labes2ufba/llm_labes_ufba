@@ -7,12 +7,12 @@
 Adicionar Ementa
 
 
-##Descrição da Disciplina
+## Descrição da Disciplina
 Adicionar texto de Descrição
 
-##Material de Apoio Preliminar
+## Material de Apoio Preliminar
 Adicionar Lista de Links de Material de Apoio
 
-#Aulas
+# Aulas
 
 
